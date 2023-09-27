@@ -89,7 +89,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM :
-```
+```c
 NAME: LAVANYA
 REG NO:212222110021
 
@@ -106,10 +106,10 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
 
 ## Output screen shots of proteus  :
- ON CONDITION:
+ ## ON CONDITION:
  ![pmc exp6](https://github.com/LavanyaMuraleedharan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/120103862/98a874f5-2549-4f5a-8895-8c019ea4c5d3)
 
- OFF CONDITION:
+## OFF CONDITION:
  ![pmc exp 6 off](https://github.com/LavanyaMuraleedharan/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/120103862/40677487-ab39-4923-8b1c-a74d15bb4db3)
 
 
