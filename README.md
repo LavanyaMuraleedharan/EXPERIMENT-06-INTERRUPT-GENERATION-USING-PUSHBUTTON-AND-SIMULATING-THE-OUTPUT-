@@ -92,6 +92,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ```c
 NAME: LAVANYA
 REG NO:212222110021
+```
+```c
 
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
